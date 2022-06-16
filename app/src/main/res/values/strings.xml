@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BarCodeScanProduct</string>
+    <string name="btn_scan">바코드 스캔</string>
+    <string name="btn_re_scan">재촬영</string>
+    <string name="zero_five">0.5인분</string>
+    <string name="one_zero">1인분</string>
+    <string name="one_five">1.5인분</string>
+    <string name="two_zero">2인분</string>
+    <string name="goal_cal">목표 Kcal</string>
+    <string name="search">조회중</string>
+
+    <string name="NUTR_CONT2">탄수화물(g)(1회제공량당)</string>
+    <string name="NUTR_CONT3">단백질(g)(1회제공량당)</string>
+    <string name="NUTR_CONT4">지방(g)(1회제공량당)</string>
+    <string name="NUTR_CONT5">당류(g)(1회제공량당)</string>
+    <string name="NUTR_CONT6">나트륨(mg)(1회제공량당)</string>
+    <string name="NUTR_CONT7">콜레스테롤(mg)(1회제공량당)</string>
+    <string name="NUTR_CONT8">포화지방산(g)(1회제공량당)</string>
+    <string name="NUTR_CONT9">트랜스지방(g)(1회제공량당)</string>
+
+</resources>
